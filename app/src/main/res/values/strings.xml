@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CellPoint GitHub Repos</string>
+    <string name="enter_user_organization">Enter User/Organization</string>
+    <string name="search_for_user">Search User</string>
+    <string name="search_for_organizaion">Search Organizaion</string>
+    <string name="repos_unavailable">No repository under this language</string>
+</resources>
